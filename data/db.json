@@ -80,5 +80,77 @@
             "balance": 1450
 
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "arbuz",
+            "price": 105,
+            "photo": "",
+            "desc": "арбуз"
+        },
+        {
+            "id": 2,
+            "name": "arbuz",
+            "price": 110,
+            "photo": "",
+            "desc": "покруче"
+        },
+        {
+            "id": 3,
+            "name": "arbuz",
+            "price": 115,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 4,
+            "name": "arbuz",
+            "price": 120,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 5,
+            "name": "arbuz",
+            "price": 125,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 6,
+            "name": "arbuz",
+            "price": 130,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 7,
+            "name": "arbuz",
+            "price": 135,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 8,
+            "name": "arbuz",
+            "price": 140,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 9,
+            "name": "arbuz",
+            "price": 145,
+            "photo": "",
+            "desc": "еще круче"
+        },
+        {
+            "id": 10,
+            "name": "arbuz",
+            "price": 150,
+            "photo": "",
+            "desc": ""
+        }
     ]
 }
