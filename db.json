@@ -87,70 +87,80 @@
             "name": "arbuz",
             "price": 105,
             "photo": "",
-            "desc": "арбуз"
+            "desc": "арбуз",
+            "author_id": 1
         },
         {
             "id": 2,
             "name": "arbuz",
             "price": 110,
             "photo": "",
-            "desc": "покруче"
+            "desc": "покруче",
+            "author_id": 2
         },
         {
             "id": 3,
             "name": "arbuz",
             "price": 115,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 3
         },
         {
             "id": 4,
             "name": "arbuz",
             "price": 120,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 4
         },
         {
             "id": 5,
             "name": "arbuz",
             "price": 125,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 5
         },
         {
             "id": 6,
             "name": "arbuz",
             "price": 130,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 6
         },
         {
             "id": 7,
             "name": "arbuz",
             "price": 135,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 7
         },
         {
             "id": 8,
             "name": "arbuz",
             "price": 140,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 8
         },
         {
             "id": 9,
             "name": "arbuz",
             "price": 145,
             "photo": "",
-            "desc": "еще круче"
+            "desc": "еще круче",
+            "author_id": 9
         },
         {
             "id": 10,
             "name": "arbuz",
             "price": 150,
             "photo": "",
-            "desc": ""
+            "desc": "еще круче",
+            "author_id": 10
         }
     ]
 }
