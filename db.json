@@ -86,7 +86,7 @@
             "id": 1,
             "name": "arbuz",
             "price": 105,
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img/1%20(1).jfif",
             "desc": "арбуз",
             "author_id": 1
         },
@@ -94,7 +94,7 @@
             "id": 2,
             "name": "arbuz",
             "price": 110,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/2(1).jfif",
             "desc": "покруче",
             "author_id": 2
         },
@@ -102,7 +102,7 @@
             "id": 3,
             "name": "arbuz",
             "price": 115,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/3%20(1).jfif",
             "desc": "еще круче",
             "author_id": 3
         },
@@ -110,7 +110,7 @@
             "id": 4,
             "name": "arbuz",
             "price": 120,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/4%20(1).jfif",
             "desc": "еще круче",
             "author_id": 4
         },
@@ -118,7 +118,7 @@
             "id": 5,
             "name": "arbuz",
             "price": 125,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/5(1).jfif",
             "desc": "еще круче",
             "author_id": 5
         },
@@ -126,7 +126,7 @@
             "id": 6,
             "name": "arbuz",
             "price": 130,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/6%20(1).jfif",
             "desc": "еще круче",
             "author_id": 6
         },
@@ -134,7 +134,7 @@
             "id": 7,
             "name": "arbuz",
             "price": 135,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/7%20(1).jfif",
             "desc": "еще круче",
             "author_id": 7
         },
@@ -142,7 +142,7 @@
             "id": 8,
             "name": "arbuz",
             "price": 140,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/9%20(1).jfif",
             "desc": "еще круче",
             "author_id": 8
         },
@@ -150,7 +150,7 @@
             "id": 9,
             "name": "arbuz",
             "price": 145,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/8%20(1).jfif",
             "desc": "еще круче",
             "author_id": 9
         },
@@ -158,7 +158,7 @@
             "id": 10,
             "name": "arbuz",
             "price": 150,
-            "photo": "",
+            "photo": "https://github.com/igort111/WebMidSun14_Igor/blob/3b072d7882687e9fad0fffd1eca6d0eb24f0a045/img/9%20(1).jfif",
             "desc": "еще круче",
             "author_id": 10
         }
