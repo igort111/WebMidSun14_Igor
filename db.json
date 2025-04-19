@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Sergey",
             "surname": "Belousov",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/1%20(1).jfif",
             "balance": 1500
 
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "igort",
             "surname": "horosheev",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/10.jfif",
             "balance": 1400
 
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "nik",
             "surname": "nepridumaev",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/2.jfif",
             "balance": 1300
 
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "denis",
             "surname": "orehov",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/3.jfif",
             "balance": 1200
 
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "nikita",
             "surname": "arbuznikov",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/4.jfif",
             "balance": 1100
 
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "lesha",
             "surname": "krutoi",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/5.jfif",
             "balance": 1000
 
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "name": "artem",
             "surname": "ogurtsov",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/6.jfif",
             "balance": 1150
 
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "name": "roma",
             "surname": "letuchii",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/7.jfif",
             "balance": 1250
 
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "ruslan",
             "surname": "pomelov",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/8.jfif",
             "balance": 1350
 
         },
@@ -76,7 +76,7 @@
             "id": 10,
             "name": "vanya",
             "surname": "iablochnyi",
-            "photo": "",
+            "photo": "https://raw.githubusercontent.com/igort111/WebMidSun14_Igor/refs/heads/main/img2/9.jfif",
             "balance": 1450
 
         }
